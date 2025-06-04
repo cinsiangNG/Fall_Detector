@@ -10,14 +10,14 @@ You can customize the duration of each output segment.
 ## ✅ Prerequisites
 
 1. **Download FFmpeg**  
-   -Window: [🔗 https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/)
-   -Linux: 
+   - Window: [🔗 https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/)
+   - Linux: 
     ```bash
     sudo apt update
     sudo apt install ffmpeg
     ```
 
-2. **Install & Add FFmpeg to Environment Variables**  
+3. **Install & Add FFmpeg to Environment Variables**  
    - Decompress the downloaded file.  
    - Locate the `bin` folder inside (e.g., `C:\ffmpeg\bin`).  
    - Add this path to your system environment variable:
@@ -32,7 +32,7 @@ You can customize the duration of each output segment.
        ```
      - Click **OK → OK** to confirm.
 
-3. **Verify FFmpeg Installation**
+4. **Verify FFmpeg Installation**
    - Open **Command Prompt** and type:
      ```bash
      ffmpeg -version
