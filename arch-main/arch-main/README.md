@@ -2,6 +2,8 @@
     <img src="https://github.com/Hsinchu-Side-project-team/arch/blob/main/Screenshot%202025-05-25%20001756.png" alt="Architecture" width="100%"/>
    
 </p>
+
+
 ## 🧠 Fall Detection System (YOLO + FallNet)
 
 This project aims to improve safety in long-term care facilities by providing real-time fall detection and alerting. The system integrates object detection (YOLO) and a deep learning-based sequence model (FallNet) to recognize and respond to fall incidents.
